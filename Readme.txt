@@ -3,8 +3,8 @@ Contributors: vinoth06, buffercode
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7DHAEMST475BY
 Tags: banner, widget, advertisement, ads, banner ads, widget ads, image ads, image widget, ads upload, upload advertisement, upload widget ads
 Requires at least: 3.3
-Tested up to: 3.9
-Stable tag: 1.1.2.1
+Tested up to: 4.2
+Stable tag: 1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -22,6 +22,10 @@ Through this plugin admin can,
 * Custom title can be added for that banner in widget location.
 
 For more information : http://buffercode.com/random-banner-wordpress-plugin/
+
+v 1.2 (27042015)
+
+* Missing title removed layout - Bug Fixes
 
 v 1.1.2 (28042014)
 
@@ -48,6 +52,8 @@ v 1.0
 For more information : http://buffercode.com/random-banner-wordpress-plugin/
 
 == Changelog ==
+= 1.2 =
+* Missing title removed layout - Bug Fixes
 
 = 1.1.2.1 =
 * Support WordPress 3.9
